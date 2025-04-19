@@ -9,7 +9,6 @@ This project demonstrates automated testing of ETL logic where:
 - Location = `city + country`
 
 ## 🔧 How to Run
-```bash
-pip install pandas
+
 python etl_simulation.py
 python tests/test_merge_validation.py
